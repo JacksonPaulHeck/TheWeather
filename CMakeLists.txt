@@ -22,4 +22,4 @@ foreach(file IN LISTS input01)
 endforeach()
 
 set(CMAKE_CXX_STANDARD 17)
-add_executable(${EXE_NAME} main.cpp)
+add_executable(${EXE_NAME} main.cpp Driver.cpp)
