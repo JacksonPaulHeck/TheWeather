@@ -1,15 +1,15 @@
-City,State,Temp,High,Low,Weather
-Atlanta, Georgia,52,H 56,L 51,Cloudy with showers all day
-Sarasota, Florida,83,H 85,L 66,Sunny with little to no chance of precipitation all day
-Beaver Creek, Minisota,35,H 40,L 22,Cloudy with 10% chance of precipitation all day
-Kensington, Maryland,53,H 53,L 42,Partly cloudy all day
-Los Angeles, California,58,H 60,L 48,Cloudy with a chance of rain all day
-San Diego, California,60,H 63,L 55,Cloudy with a chance of rain all day
-"35deg 48'43.7""N"," 84deg 10'15.5""W",52,H 59,L 52,Cloudy with a chance of rain all day
-Las Vegas, Nevada,58,H 69,L 49,Partly cloudy with no chance of precipitation all day
-Dallas, Texas,58,H 69,L 60,Cloudy with a chance of rain all day
-Puerto Vallarta, Mexico,81, H 84, L 67,Partly cloudy with 10% chance of rain all day
-Tampa, Florida,83,H 87,L 66,Mostly Cloudy with a 10% chance of rain all day
-Moose Jaw, Canada,17,H 33,L 12,Sunny with little to no chance of precipitation all day
-Dryden, Texas,68,H 77,L 64, Cloudy with a chance of rain all day
-St. Louis, Missouri,40,H 46,L 40, Cloudy with a chance of rain all day
+14
+Atlanta,Georgia,52,56,51,cloudy with showers all day
+Sarasota,Florida,83,85,66,sunny with little to no chance of precipitation all day
+Beaver Creek,Minisota,35,40,22,cloudy with 10% chance of precipitation all day
+Kensington,Maryland,53,53,42,partly cloudy all day
+Los Angeles,California,58,60,48,cloudy with a chance of rain all day
+San Diego,California,60,63,55,cloudy with a chance of rain all day
+"35deg 48'43.7""N","84deg 10'15.5""W",52,59,52,cloudy with a chance of rain all day
+Las Vegas,Nevada,58,69,49,partly cloudy with no chance of precipitation all day
+Dallas,Texas,58,69,60,cloudy with a chance of rain all day
+Puerto Vallarta,Mexico,81,84,67,partly cloudy with 10% chance of rain all day
+Tampa,Florida,83,87,66,mostly cloudy with a 10% chance of rain all day
+Moose Jaw,Canada,17,33,12,sunny with little to no chance of precipitation all day
+Dryden,Texas,68,77,64,cloudy with a chance of rain all day
+St. Louis,Missouri,40,46,40,cloudy with a chance of rain all day

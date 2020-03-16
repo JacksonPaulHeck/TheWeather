@@ -14,7 +14,6 @@ void populateArrays(char* line, char** city, char** state, int* temp, int* high,
             ss.getline(tempChar, 70, ',');
             switch (i % 6) {
                 case (1):
-                    state[j] = new char[70];
                     strcpy(state[j], tempChar);
                     break;
                 case (2):
@@ -27,11 +26,9 @@ void populateArrays(char* line, char** city, char** state, int* temp, int* high,
                     low[j] = atoi(tempChar);
                     break;
                 case (5):
-                    weather[j] = new char[70];
                     strcpy(weather[j], tempChar);
                     break;
                 default:
-                    city[j] = new char[70];
                     strcpy(city[j], tempChar);
                     break;
             }
