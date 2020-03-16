@@ -11,7 +11,7 @@ int main(int argc, char** argv){
     ifstream inputFile(argv[1]);
     ofstream outputFile(argv[2]);
 
-    outputFile << "Hello World" << endl;
+    outputFile << "Hello World!" << endl;
 
     inputFile.close();
     outputFile.close();
