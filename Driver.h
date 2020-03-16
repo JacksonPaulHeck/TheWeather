@@ -9,7 +9,7 @@
 #define THEWEATHER_DRIVER_H
 using namespace std;
 
-void populateArrays(char*, char**, char**, int*, int*, int*, char**, istream&);
+void populateArrays(char*, char**, char**, int*, int*, int*, char**, istream&, int);
 void printArrays(int, char**, char**, int*, int*, int*, char**, ostream&);
 
 #endif //THEWEATHER_DRIVER_H

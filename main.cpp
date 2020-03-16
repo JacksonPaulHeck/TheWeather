@@ -23,7 +23,7 @@ int main(int argc, char** argv){
     int low[numOfInputs];
     char** weather = new char*[numOfInputs];
 
-    populateArrays(line, city, state, temp, high, low, weather, inputFile);
+    populateArrays(line, city, state, temp, high, low, weather, inputFile, numOfInputs);
     printArrays(numOfInputs, city, state, temp, high, low, weather, outputFile);
 
     for(int i = 0; i < numOfInputs; i++){
