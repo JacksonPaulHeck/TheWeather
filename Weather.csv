@@ -1,16 +1,16 @@
-15
-Atlanta,Georgia,52,56,51,cloudy with showers all day
-Sarasota,Florida,83,85,66,sunny with little to no chance of precipitation all day
-Beaver Creek,Minisota,35,40,22,cloudy with 10% chance of precipitation all day
-Kensington,Maryland,53,53,42,partly cloudy all day
-Los Angeles,California,58,60,48,cloudy with a chance of rain all day
-San Diego,California,60,63,55,cloudy with a chance of rain all day
-"35deg 48'43.7""N","84deg 10'15.5""W",52,59,52,cloudy with a chance of rain all day
-Las Vegas,Nevada,58,69,49,partly cloudy with no chance of precipitation all day
-Dallas,Texas,58,69,60,cloudy with a chance of rain all day
-Puerto Vallarta,Mexico,81,84,67,partly cloudy with 10% chance of rain all day
-Tampa,Florida,83,87,66,mostly cloudy with a 10% chance of rain all day
-Moose Jaw,Canada,17,33,12,sunny with little to no chance of precipitation all day
-Dryden,Texas,68,77,64,cloudy with a chance of rain all day
-St. Louis,Missouri,40,46,40,cloudy with a chance of rain all day
-Fayetteville,Arkansas,50,51,45,cloudy with a chance of rain all day
+15,,,,,
+Atlanta,Georgia,58,68,56,cloudy with chance of precipitation all day
+Sarasota,Florida,81,82,66,partly cloudy with 10% chance of rain all day
+Beaver Creek,Minisota,35,43,37,partlky cloudy with 40% chance of rain later in the day
+Kensington,Maryland,58,62,36,mostly cloudy with a 10% chance of rain all day
+Los Angeles,California,53,58,45,mostly cloudy with a 40% chance of rain right now
+San Diego,California,58,61,52,mostly cloudy with a 50% chance of rain all day
+"35deg 48'43.7""N","84deg 10'15.5""W",59,61,51,cloudy with a chance of rain all day
+Las Vegas,Nevada,56,60,46,partly cloudy with 10% chance of precipitation all day
+Dallas,Texas,63,71,66,foggy with a high chance of rain all day
+Puerto Vallarta,Mexico,81,82,68,fair with 10% chance of rain all day
+Tampa,Florida,83,84,67,fair with 10% chance of rain all day
+Moose Jaw,Canada,28,35,7,cloudy with 10% chance of preceipitation all day
+Dryden,Texas,72,78,59,partly cloudy with a high chance of precipitation all day
+St. Louis,Missouri,48,52,44,cloudy with a chance of rain all day
+Fayetteville,Arkansas,54,62,53,cloudy with a chance of rain all day
